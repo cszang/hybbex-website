@@ -48,6 +48,24 @@ a {
     padding-left: 1em;
 }
 
+.language-right {
+    padding-left: 0em;
+}
+
+.language-left {
+    padding-left: 1em;
+}
+
+.language {
+    font-size: 0.6rem;
+}
+
+.language-selected {
+    color: #07364B;
+    font-weight: 700;
+    font-size: 0.6rem;
+}
+
 .current {
     color: #07364B;
 }
