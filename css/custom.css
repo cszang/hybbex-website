@@ -76,11 +76,10 @@ a {
 }
 
 .mainlogo {
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     position: relative;
-    width: 300px;
-    display: block;
+    width: 140px;
+    display: flex;
 }
 
 img.navigation-link {
