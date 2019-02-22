@@ -101,6 +101,10 @@ h3.center {
     margin-top: 12rem;
 }
 
+.belowheader2 {
+    margin-top: 6rem;
+}
+
 figure {
   display: flex;
   align-items: center;
