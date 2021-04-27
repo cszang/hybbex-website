@@ -137,3 +137,7 @@ div.center {
     width: 120px;
     clip-path: circle(60px at center);
 }
+
+.breaking {
+    color: #992222;
+}
