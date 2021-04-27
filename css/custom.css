@@ -27,7 +27,7 @@
 
 .navigation .navigation-link, .navigation .navigation-title, .navigation .title {
     display: inline;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     line-height: 5.2rem;
     padding: 0;
     text-decoration: none
@@ -131,4 +131,9 @@ div.center {
     margin-right: 30rem;
     position: relative;
     display: block;
+}
+
+.team-img {
+    width: 120px;
+    clip-path: circle(60px at center);
 }
